@@ -665,7 +665,7 @@ _Auto and motor bikes_
 
 For the big companies: 
 🇩🇪BMW, 🇩🇪Volkswagen Group, 🇫🇷Renault, 🇮🇹Ferrari,🇮🇹Pagani,🇸🇪Koenigsegg,
- (All of these manufacture in Europe,altough some in other places too, check shareholder percentages per region)
+ (All of these manufacture in Europe,although some in other places too, check shareholder percentages per region)
 
 For instance:
 Mercedes-Benz HQ in 🇩🇪, however (https://group.mercedes-benz.com/investors/share/shareholder-structure/) Not most of the company is european, only about 20% of the shares.
