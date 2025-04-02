@@ -42,7 +42,7 @@ If it has multiple flags it indicates it's made in multiple countries, no flag i
 
 You can support this repository by discussing and suggesting more resources and links that could be added.
 
-In the future I intend to host this in an EU website, ideally in sustainable hosting, I currently don't have the means to do this so if you're able to give monetary support it will go to that and me keeping this updated as much as possible while adding more resources.
+In the future I intend to host this in an EU website, ideally in sustainable hosting, I currently don't have the means to do this so if you're able to give monetary support it will go to that and to me keeping this updated as much as possible while adding more resources. So if you can feel free to help here: https://ko-fi.com/madeineu
 
 
 ## Content
