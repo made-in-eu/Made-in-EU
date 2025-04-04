@@ -446,7 +446,7 @@ _Powerbanks_
 
 **ROUTERS**
 - [FRITZ!](https://en.fritz.com) 🇪🇺 - 🇩🇪
-- [MIKROTIK](https://mikrotik.com/) 🇪🇺 - 🇱🇻
+- [MIKROTIK](https://mikrotik.com/) 🇪🇺 - 🇱🇻🇱🇹 🇨🇳 _Higher end ones are manufactured in Europe, and the company is moving away from manufacturing from China_
 
 ### Audio and Video
 
