@@ -171,11 +171,17 @@ Apparel and Garments, for every day and more.
 - [Tod's](https://www.tods.com/se-en/home/) 🇪🇺 - 🇮🇹
 
 #### Jewlery
+
+- [Akind Store](https://akindstore.com/) 🇪🇺 🌱 - 🇪🇸
+- [Caroline Svedbom](https://eu.carolinesvedbom.com) 🇪🇺 - 🇬🇷
 - [Drakenberg Sjölin](https://drakenbergsjolin.com/) 🇪🇺 🌱 - 🇸🇪
 - [Dear Darling Berlin](https://deardarling.berlin/en) 🇪🇺 🌱 - 🇩🇪 🇮🇹 🇪🇸
 - [Elhanati](https://elhanati.com/) 🇪🇺 🌱 - 🇩🇰
 - [Élise Tsikis](https://www.elisetsikis.com) 🇪🇺 - 🇫🇷
+- [Gas Bijoux](https://www.gasbijoux.com/eur_en/) 🇪🇺 - 🇫🇷
+- [LOTT.gioielli](https://www.lottgioielli.com/en/) 🇪🇺 - 🇳🇱
 - [Mint15](https://mint15.com/en-de) 🇪🇺 - 🇳🇱
+- [Norrfolks](https://norrfolks.com/) 🇪🇺 🌱 - 🇸🇪🇬🇧🇮🇹
 - [Project Bon](https://www.projectbon.com/) 🇪🇺 - 🇪🇸
 
 
@@ -529,6 +535,7 @@ Tables, chairs, and other furniture for home.
 - [IKEA](https://www.ikea.com/) 🇪🇺 - 🇸🇪🇩🇪🇵🇱🇮🇹 🇨🇳
 - [Meubles Célio](https://www.meubles-celio.fr/) 🇪🇺 - 🇫🇷 _Site in French_
 - [noo.ma](https://noo.ma) 🇪🇺 - 🇩🇪
+- [Pommier Furniture](https://pommier-furniture.com/) 🇪🇺 - 🇷🇸
 - [Roche Bobois](https://www.roche-bobois.com) 🇪🇺 - 🇫🇷🇵🇱🇮🇹  _Designer furniture, expensive_
 - [Tediber](https://www.tediber.com/) 🇪🇺 🌱 - 🇫🇷 _Site in French_
 - [TIPTOE](https://www.tiptoe.fr) 🇪🇺 🌱 - 🇫🇷 _100% made in europe_
