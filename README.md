@@ -147,6 +147,7 @@ Apparel and Garments, for every day and more.
 - [Sukkamestarit](https://sukkamestarit.com/en) 🇪🇺 🌱 - 🇫🇮 _Socks_
 - [Suitsupply](https://suitsupply.com) 🇪🇺 - 🇨🇳 _Suits are Italian materials manufactured in China, while they have other products made in Italy_
 - [Tod's](https://www.tods.com/se-en/home/) 🇪🇺 - 🇮🇹
+- [Trigema](https://www.trigema.de/en/) 🇪🇺 - 🇩🇪
 - [Tripulse](https://tripulse.co/collections/frontpage) 🇪🇺 🌱 - 🇸🇪 🇪🇺
 - [Vaerupcycled](https://www.vaerupcycled.com) 🇪🇺 🌱 - 🇵🇹 _upcycled textiles_
   
@@ -216,7 +217,7 @@ Boots and women categories will be updated with more categories in the future.
 - [Eknfootwear](https://www.eknfootwear.com) 🇪🇺 🌱- 🇩🇪 🇧🇩 🇵🇹
 - [Elnaturalista](https://www.elnaturalista.com) 🇪🇺 🌱- 🇪🇸 🇲🇦
 - [Ella-witt](https://www.ella-witt.com) 🇪🇺 🌱- 🇵🇹
-- [En.giesswein](https://www.en.giesswein.com) 🇪🇺 - 🇦🇹
+- [En.giesswein](https://www.en.giesswein.com) 🇪🇺 - 🇦🇹 _Austrian materials assembled in China and Vietnam_
 - [Espigas](https://espigas-store.com) 🇪🇺  - 🇫🇷 _only the shoes with french flag are made in France, rest are made in China 🇨🇳_
 - [Ethletic](https://www.ethletic.com) 🇪🇺 - 🇵🇰
 - [ETQ Amsterdam](https://www.etq-amsterdam.com/) 🇪🇺 - 🇵🇹
@@ -254,6 +255,7 @@ Boots and women categories will be updated with more categories in the future.
 - [Lasportiva](https://www.lasportiva.com) 🇪🇺 - 🇮🇹🇻🇳🇨🇳 _Italy manufactures 60% of their products, while in China and Vietnam manufacture 28% and 12% respectively_
 - [Lecoqsportif](https://www.lecoqsportif.com) 🇪🇺 - 🇫🇷🇲🇦🇵🇹  _The goal of the company is to manufacture in a radius of less than 2500km_
 - [Le Formier](https://leformier.com) 🇪🇺 - 🇫🇷
+- [Leguano](https://leguano.us/) 🇪🇺 - 🇩🇪
 - [Lemon Jelly](https://www.lemonjelly.com/en/) 🇪🇺 🌱 - 🇵🇹
 - [Le Soulor](https://lesoulor1925.com) 🇪🇺 - 🇫🇷 _site in French_
 - [Lloyd](https://www.lloyd.com/wd/en/) 🇪🇺 - 🇩🇪🇷🇴🇮🇳
@@ -268,6 +270,7 @@ Boots and women categories will be updated with more categories in the future.
 - [Méduse](https://www.meduse.com) 🇪🇺 - 🇫🇷 🇲🇦
 - [Meindl](https://meindl.de/?lang=en) 🇪🇺 🌱 - 🇩🇪 🇦🇹
 - [Mephisto](https://www.mephisto.com) 🇪🇺 - 🇫🇷🇵🇹
+- [Mondeox](https://www.mondeox.it/en/) 🇪🇺 - 🇷🇴🇺🇦
 - [Milemil](https://www.milemil.fr) 🇪🇺  - 🇫🇷 _site in French_
 - [Minuitsurterre](https://www.minuitsurterre.com) 🇪🇺 🌱- 🇵🇹 _Shoes made from vegan leather from grapes!_
 - [Moea](https://moea.io) 🇪🇺 🌱 - 🇵🇹
@@ -297,8 +300,9 @@ Boots and women categories will be updated with more categories in the future.
 - [Pikolinos](https://www.pikolinos.com/es-en/) 🇪🇺 - 🇪🇸
 - [Proalp](https://www.proalp.si/en) 🇪🇺 - 🇸🇮 _Made in Tržič Slovenia_
 - [Pomar](https://www.pomar.fi/) 🇪🇺 🌱 - 🇪🇪 
-- [Rombaut](https://rombaut.com) 🇪🇺 🌱 - 🇵🇹 _Very expensive designer shoes_
 - [Rieker](https://world.rieker.com/en) 🇨🇭🇩🇪 - 🇲🇦🇹🇳🇻🇳🇸🇰
+- [Rokynori](https://rokynori.com/en/) 🇪🇺 - 🇵🇹
+- [Rombaut](https://rombaut.com) 🇪🇺 🌱 - 🇵🇹 _Very expensive designer shoes_
 - [Saola](https://www.saola.com) 🇪🇺 🌱- 🇻🇳
 - [Sanjo](https://www.sanjo.pt/en) 🇪🇺 - 🇵🇹
 - [Sampla](https://www.sampla.ie) 🇪🇺 - 🇪🇺 _The location is not specified but says 100% handcrafted in EU_
@@ -362,10 +366,10 @@ https://productosmadeinspain.es
 **EU MANUFACTURED**
 - [Atos](https://atos.net) 🇪🇺 - 🇫🇷 _Through Eviden brand they're developing the Lifelink Hoox T40_
 - [Bittium Tough Mobile 2](https://www.bittium.com/defense-security/bittium-tough-mobile-2/) 🇪🇺 - 🇫🇮
-- [Gigaset](https://www.gigaset.com) 🇪🇺 - 🇩🇪
+- [Gigaset](https://www.gigaset.com) 🇪🇺 - 🇩🇪 _Recently got bought by HongKong company VTech_
 - [Hammer](https://hammerphones.com/en) 🇪🇺 - 🇵🇱 _Rugged smartphone_
 - [Mudita](https://mudita.com/) 🇪🇺 - 🇵🇱 _Minimalist "smartphone"_
-- [Volla](https://volla.online/en/) 🇪🇺 - 🇩🇪
+- [Volla](https://volla.online/en/) 🇪🇺 - 🇩🇪 _manufactured by Gigaset_
 
 
 **MANUFACTURED ELSEWHERE**
