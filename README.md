@@ -9,7 +9,7 @@
 
 For digital products visit: https://european-alternatives.eu/ by Constantin Graf
 
-You can check this same one but hosted in EU "github alternative: https://codeberg.org/Made-in-EU/Made-in-EU
+You can check this same one but hosted in EU github alternative: https://codeberg.org/Made-in-EU/Made-in-EU
 
 ## Preamble
 For a few years now, I've been saving a lot of different links for different european companies as I believe more than ever on the European Union and I have very strong European Values myself. I think more than ever due to the political climate I think it's time we invest more in European countries. I talk even the ones outside of the EU as its important for the continent.
