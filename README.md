@@ -121,6 +121,7 @@ Apparel and Garments, for every day and more.
 
 - [1083](https://www.1083.fr) 🇪🇺 🌱 - 🇫🇷  _The key feature of these is most of the materials and manufacturing is done no further than 1083 KM from the company.Site in French_
 - [Alohas](https://alohas.com/) 🇪🇺 🌱 - 🇪🇸 🇵🇹
+- [Altus](https://wearealtus.com/en/) 🇪🇺 - 🇪🇸
 - [Arkkcopenhagen](https://www.arkkcopenhagen.com) 🇪🇺 🌱 - 🇩🇰 🇻🇳
 - [Bata](https://www.bata.com) 🇨🇿🇨🇭 - 🇨🇿 🇨🇭 🇳🇱 🇲🇾 🇿🇦 🇵🇰 _Originated in Czech Republic, nevertheless now is headquartered in Switzerland_
 - [Belenka](https://www.belenka.com) 🇪🇺 - 🇸🇰 🇨🇿 🇵🇹 🇻🇳
@@ -130,7 +131,6 @@ Apparel and Garments, for every day and more.
 - [Ecoalf](https://www.ecoalf.com) 🇪🇺 🌱- 🇪🇸 🇰🇷 🇹🇼 🇨🇳
 - [Eu.velasca](https://www.velasca.com) 🇪🇺 - 🇮🇹
 - [Hummel](https://www.hummel.dk/en) 🇪🇺 - 🇨🇳🇮🇳🇧🇩🇵🇰🇹🇷
-- [Jack Wolfskin](https://www.jack-wolfskin.com/) 🇪🇺 - 🇩🇪🇹🇼 _Manufactured in other south east asian countries as well_
 - [Joma Sport](https://www.joma-sport.com/en) 🇪🇺 - 🇪🇸🇨🇳🇲🇽
 - [Kappa](https://www.kappa.com) 🇪🇺 - 🇮🇹🇨🇳
 - [Lasportiva](https://www.lasportiva.com) 🇪🇺 - 🇮🇹🇻🇳🇨🇳 _Italy manufactures 60% of their products, while in China and Vietnam manufacture 28% and 12% respectively_
@@ -138,6 +138,7 @@ Apparel and Garments, for every day and more.
 - [Lundhags](https://lundhags.com/eu) 🇪🇺 🌱 - 🇸🇪 🇵🇹
 - [Maison Tricolore](https://maisontricolore.fr) 🇪🇺 - 🇫🇷 _site in French_
 - [Macron](https://www.macron.com) 🇪🇺 - 🇮🇹 _Sportswear_
+- [Millet](https://www.millet.com/eu_en/) 🇪🇺 - 🇭🇺🇹🇳
 - [Minuitsurterre](https://www.minuitsurterre.com) 🇪🇺 🌱- 🇵🇹🇫🇷
 - [Montlimart](https://www.montlimart.com) 🇪🇺 🌱 - 🇫🇷🇪🇺 _site in French_
 - [Morrison Shoes](https://morrisonshoes.com/en) 🇪🇺 - 🇪🇸
@@ -197,6 +198,7 @@ Boots and women categories will be updated with more categories in the future.
 - [Aldo Bruè](https://www.aldobrue.com/en/) 🇪🇺 - 🇮🇹
 - [Alohas](https://alohas.com/) 🇪🇺 🌱 - 🇪🇸 🇵🇹
 - [Altberg](https://www.altberg.co.uk/) 🇬🇧 - 🇬🇧 🇮🇹
+- [Altus](https://wearealtus.com/en/) 🇪🇺 - 🇪🇸
 - [Anna Cori](https://www.annacori.com/en/) 🇪🇺 - 🇷🇴
 - [Anoncph](https://www.anoncph.com) 🇪🇺 🌱 - 🇩🇰 🇵🇹
 - [Archiduchesse](https://www.archiduchesse.com) 🇪🇺  - 🇫🇷
@@ -220,6 +222,7 @@ Boots and women categories will be updated with more categories in the future.
 - [Cog-store](https://www.cog-store.com) 🇪🇺 🌱- 🇵🇹
 - [Copenhagenstudios](https://www.copenhagenstudios.com) 🇪🇺 🌱- 🇵🇹 🇮🇹
 - [Diadora](https://www.diadora.com) 🇪🇺 - 🇮🇹
+- [DRK](https://drk.eu/) 🇪🇺 - 🇭🇺
 - [Earthbound-sneakers](https://www.earthbound-sneakers.com) 🇪🇺 🌱- 🇭🇷 🇧🇦
 - [Ecoalf](https://www.ecoalf.com) 🇪🇺 🌱- 🇪🇸 🇰🇷 🇹🇼 🇨🇳
 - [Ector-sneakers](https://www.ector-sneakers.com) 🇪🇺 🌱- 🇫🇷
@@ -274,13 +277,14 @@ Boots and women categories will be updated with more categories in the future.
 - [L'Usinier Français](https://lusinierfrancais.com/) 🇪🇺 - 🇫🇷 _site in French_
 - [Maison Tricolore](https://maisontricolore.fr) 🇪🇺 - 🇫🇷 _site in French_
 - [Magnanni](https://eu.magnanni.com/) 🇪🇺 - 🇪🇸🇵🇹
-- [Marelbo](https://marelbo.com/en/) 🇪🇺 - 
+- [Marelbo](https://marelbo.com/en/) 🇪🇺 - 🇷🇴
 - [Martinelli](https://www.martinelli.es/es-en) 🇪🇺 - 🇪🇸
 - [Méduse](https://www.meduse.com) 🇪🇺 - 🇫🇷 🇲🇦
 - [Meindl](https://meindl.de/?lang=en) 🇪🇺 🌱 - 🇩🇪 🇦🇹
 - [Mephisto](https://www.mephisto.com) 🇪🇺 - 🇫🇷🇵🇹
 - [Mondeox](https://www.mondeox.it/en/) 🇪🇺 - 🇷🇴🇺🇦
 - [Milemil](https://www.milemil.fr) 🇪🇺  - 🇫🇷 _site in French_
+- [Millet](https://www.millet.com/eu_en/) 🇪🇺 - 🇫🇷 _Boots manufactured in France, the rest of their products not necessarely_
 - [Minuitsurterre](https://www.minuitsurterre.com) 🇪🇺 🌱- 🇵🇹 _Shoes made from vegan leather from grapes!_
 - [Moea](https://moea.io) 🇪🇺 🌱 - 🇵🇹
 - [Montlimart](https://www.montlimart.com) 🇪🇺 🌱 - 🇫🇷🇪🇺 _site in French_
@@ -336,6 +340,7 @@ Boots and women categories will be updated with more categories in the future.
 - [Tod's](https://www.tods.com/se-en/home/) 🇪🇺 - 🇮🇹
 - [Treerre Shoes](https://treerreshoes.com/) 🇪🇺 🌱 -  🇮🇹
 - [True Motion](https://truemotion.run/en) 🇪🇺 - 🇻🇳
+- [Tiszacipo](https://www.tiszacipo.com/) 🇪🇺 - 🇭🇺
 - [United Nude](https://unitednude.com/) 🇪🇺 - 🇨🇳 _Designer shoes, very expensive_
 - [Uniqua Limoges](https://uniqua-limoges.fr/) 🇪🇺 - 🇫🇷 _site in French, customizable upcycled shoes_
 - [Vaerupcycled](https://www.vaerupcycled.com) 🇪🇺 🌱 - 🇵🇹 _shoes made from upcycled textiles like jeans_
@@ -788,7 +793,9 @@ Equipment for various sports activities.
 
 ### Camping and Hiking Gear
 Tents, backpacks, and outdoor essentials.
-- [Jack Wolfskin](https://www.jack-wolfskin.com/) 🇪🇺 - 🇩🇪🇹🇼 _Manufactured in other south east asian countries as well_
+
+- [Altus](https://wearealtus.com/en/) 🇪🇺 - 🇪🇸
+- [Millet](https://www.millet.com/eu_en/) 🇪🇺 - 🇭🇺🇹🇳
 - [Lasportiva](https://www.lasportiva.com) 🇪🇺 - 🇮🇹🇻🇳🇨🇳 _Italy manufactures 60% of their products, while in China and Vietnam manufacture 28% and 12% respectively_
 - [Lundhags](https://lundhags.com/eu) 🇪🇺 🌱 - 🇸🇪 🇵🇹
 
