@@ -427,6 +427,8 @@ https://productosmadeinspain.es
 
 #### Cases 
 
+- [Ecoboxconcept](https://www.ecoboxconcept.com/) 🇪🇺 🌱 - 🇫🇷 _Cases and accesories made from wood_
+
 - [be quiet!](https://www.bequiet.com/) 🇪🇺 - 🇨🇳 _factories located in Asia, with close cooperation and final quality control near Hamburg_
 - [Caselabs](https://caselabs.se/) 🇪🇺 - 🇸🇪 _In process of restructure in sweden, not available yet_
 - [Fractal Design](https://www.fractal-design.com/) 🇪🇺 - 🇨🇳 _Manufacture in China_
@@ -442,7 +444,10 @@ _Gaming_
 - [Guillemot](https://www.guillemot.com/en/) 🇪🇺 - _Different gaming accesories and DJ/music accesories manufacture in europe, china, us, canada_ 
 
 _Peripherials_
-- [GOODRAM](https://www.goodram.com) 🇪🇺 - 🇵🇱  _ONLY ONE SO FAR MANUFACTURED IN EUROPE_ 
+
+- [GOODRAM](https://www.goodram.com) 🇪🇺 - 🇵🇱 
+- [Oehlbach](https://oehlbach.com/en/) 🇪🇺 - 🇩🇪 _Cables and other electronics_
+
 
 - [CHERRY](https://www.cherry.de/) 🇩🇪🇺🇸 - 🇨🇳
 - [Logitech](https://www.logitech.com) 🇨🇭 - 🇨🇳
