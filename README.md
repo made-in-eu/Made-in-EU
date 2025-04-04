@@ -471,7 +471,9 @@ _Speakers_
 
 _Headphones_
 
+- [Austrian Audio](https://austrian.audio/) 🇪🇺 - 🇦🇹 _Most of their headphones are manufactured in Austria, there are exceptions so look the model up when you buy_
 - [Bang & Olufsen](https://www.bang-olufsen.com/en/int) 🇪🇺 - 🇩🇰
+- [beyerdynamic Europe](https://europe.beyerdynamic.com/) 🇪🇺 - 🇩🇪 _Most of their headphones are manufactured in Germany, there are exceptions so look the model up when you buy_
 - [Bowers & Wilkins](https://www.bowerswilkins.com) 🇬🇧 - 🇬🇧
 - [Focal](https://www.focal.com/) 🇪🇺 - 🇫🇷
 - [Sennheiser](https://www.sennheiser.com/) 🇪🇺 - _Production in Germany, Ireland, Romania, and the USA, with some consumer products also made in China_
@@ -783,6 +785,7 @@ Tents, backpacks, and outdoor essentials.
 ### Cycling Equipment
 Bicycles, helmets, and cycling gear.
 
+- [Ampler Bikes](https://amplerbikes.com/en) 🇪🇺 - 🇪🇪
 - [GasGas](https://www.gasgas.com) 🇪🇺 - 🇪🇸 🇦🇹
 - [Pi-Pop](https://pi-pop.fr/) 🇪🇺 🌱 - 🇫🇷 _Assembly in France, some components from other companies_
 
@@ -820,6 +823,7 @@ https://www.for-vegans.com/
 
 ### Makeup and Cosmetics
 Foundation, lipstick, and eye shadow.
+- [Farmec](https://www.farmec.ro/) 🇪🇺 - 🇷🇴
 ### Hair Care Products
 Shampoos, conditioners, and styling tools.
 ### Personal Hygiene
