@@ -439,6 +439,7 @@ _Powerbanks_
 
 **ROUTERS**
 - [FRITZ!](https://en.fritz.com) 🇪🇺 - 🇩🇪
+- [MIKROTIK](https://mikrotik.com/) 🇪🇺 - 🇱🇻
 
 ### Audio and Video
 
