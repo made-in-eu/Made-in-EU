@@ -236,7 +236,7 @@ Boots and women categories will be updated with more categories in the future.
 - [Id-eight](https://www.id-eight.com) 🇪🇺 🌱- 🇮🇹
 - [Infinite-running](https://www.infinite-running.com) 🇪🇺 🌱- 🇩🇪  _site in German_
 - [Ivy Lee Copenhagen](https://ivyleecopenhagen.com) 🇪🇺 🌱 - 🇵🇹
-- [Jack Wolfskin](https://www.jack-wolfskin.com/) 🇪🇺 - 🇩🇪🇹🇼 _Manufactured in other south east asian countries as well_
+- [Jack Wolfskin](https://www.jack-wolfskin.com/) 🇪🇺 - 🇩🇪🇹🇼 _Manufactured in other south east asian countries as well_ _It's now a subsidiary from American company_
 - [Joma Sport](https://www.joma-sport.com/en) 🇪🇺 - 🇪🇸🇨🇳🇲🇽
 - [JULES & JENN](https://www.julesjenn.com) 🇪🇺 🌱 - 🇫🇷 🇵🇹 🇪🇸 🇮🇹 _site in French_
 - [Kangaroos](https://www.kangaroos.de/pages/kangaroos-made-in-germany) 🇺🇸 - 🇩🇪 _while kangaroos is an US company this line is entirely made in Germany_
