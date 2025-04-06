@@ -800,9 +800,16 @@ Equipment for various sports activities.
 Tents, backpacks, and outdoor essentials.
 
 - [Altus](https://wearealtus.com/en/) 🇪🇺 - 🇪🇸
-- [Millet](https://www.millet.com/eu_en/) 🇪🇺 - 🇭🇺🇹🇳
+- [Deuter](https://www.deuter.com/) 🇪🇺 - 🇨🇳🇲🇲🇻🇳
+- [Helikon Tex](https://helikon-tex.com/en/) 🇪🇺 - 🇵🇱 _Unknown place of production_
 - [Lasportiva](https://www.lasportiva.com) 🇪🇺 - 🇮🇹🇻🇳🇨🇳 _Italy manufactures 60% of their products, while in China and Vietnam manufacture 28% and 12% respectively_
 - [Lundhags](https://lundhags.com/eu) 🇪🇺 🌱 - 🇸🇪 🇵🇹
+- [Millet](https://www.millet.com/eu_en/) 🇪🇺 - 🇭🇺🇹🇳
+- [Savotta](https://www.savotta.fi) 🇪🇺 - 🇫🇮🇪🇪🇵🇱
+- [Varusteleka](https://www.varusteleka.fi) 🇪🇺 - _Used to produce in China, swapped to Baltics since 2022_
+- [Vaude](https://www.vaude.com) 🇪🇺 - 🇪🇺🇨🇳🇹🇼🇰🇭🇲🇲
+- [Wisport](https://www.wisport.com.pl) 🇪🇺 - 🇵🇱 _Unknown place of production_
+
 
 ### Cycling Equipment
 Bicycles, helmets, and cycling gear.
