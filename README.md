@@ -229,7 +229,6 @@ Boots and women categories will be updated with more categories in the future.
 - [Eknfootwear](https://www.eknfootwear.com) 🇪🇺 🌱- 🇩🇪 🇧🇩 🇵🇹
 - [Elnaturalista](https://www.elnaturalista.com) 🇪🇺 🌱- 🇪🇸 🇲🇦
 - [Ella-witt](https://www.ella-witt.com) 🇪🇺 🌱- 🇵🇹
-- [En.giesswein](https://www.en.giesswein.com) 🇪🇺 - 🇦🇹 _Austrian materials assembled in China and Vietnam_
 - [Espigas](https://espigas-store.com) 🇪🇺  - 🇫🇷 _only the shoes with french flag are made in France, rest are made in China 🇨🇳_
 - [Ethletic](https://www.ethletic.com) 🇪🇺 - 🇵🇰
 - [ETQ Amsterdam](https://www.etq-amsterdam.com/) 🇪🇺 - 🇵🇹
@@ -241,6 +240,7 @@ Boots and women categories will be updated with more categories in the future.
 - [Florisvanbommel](https://www.florisvanbommel.com) 🇪🇺 - 🇳🇱 🇪🇸 🇵🇹 🇮🇹
 - [Fluchos](https://fluchos.es) 🇪🇺 - 🇪🇸
 - [Gea-waldviertler](https://www.gea-waldviertler.at) 🇪🇺 - 🇦🇹  _site in German_
+- [Giesswein](https://www.en.giesswein.com) 🇪🇺 - 🇦🇹 _Austrian materials assembled in China and Vietnam_
 - [Grisport](https://www.grisport.co.uk) 🇪🇺 - 🇮🇹
 - [Haix](https://www.haix.com/en) 🇪🇺 - 🇩🇪🇭🇷
 - [Hanwag](https://www.hanwag.com) 🇪🇺 - 🇩🇪🇭🇺🇭🇷
@@ -352,6 +352,7 @@ Boots and women categories will be updated with more categories in the future.
 - [Woden](https://www.woden.com) 🇪🇺 - 🇵🇹 🇨🇳 _unfortunately most of the production is in China_
 - [Womsh](https://www.womsh.com) 🇪🇺 🌱 - 🇮🇹
 - [Zouri Shoes](https://www.zouri-shoes.com) 🇪🇺 🌱 - 🇵🇹
+- [Zaqq](https://www.zaqq.com) 🇪🇺 🌱 - 🇩🇪
 
 **Boots**
 
