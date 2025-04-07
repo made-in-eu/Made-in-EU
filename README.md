@@ -471,14 +471,19 @@ _Powerbanks_
 _Speakers_
 
 - [Alsyvox](https://alsyvox.com) 🇪🇺 - 🇪🇸
+- [Aretai](https://aretai.com/) 🇪🇺 - 🇱🇹
+- [Audio Pro](https://audiopro.com/) 🇪🇺 - 🇸🇪
 - [Bang & Olufsen](https://www.bang-olufsen.com/en/int) 🇪🇺 - 🇩🇰
 - [Cabasse](https://www.cabasse.com/) 🇪🇺 - 🇫🇷
 - [Canton](https://www.canton.de/en/) 🇪🇺 - 🇩🇪
 - [DALI Speakers](https://static.dali-speakers.com/) 🇪🇺 - 🇩🇰 _The cheapest product line is made in China_
 - [DAS Audio](https://www.dasaudio.com) 🇪🇺  - 🇪🇸
+- [Devialet](https://www.devialet.com/en-us/) 🇫🇷
 - [ELAC](https://elac.com/) 🇪🇺 - 🇩🇪
+- [Electrocompaniet](https://electrocompaniet.com/) 🇳🇴 - 🇳🇴
 - [Focal](https://www.focal.com/) 🇪🇺 - 🇫🇷
 - [Genelec](https://www.genelec.com) 🇪🇺 - 🇫🇮
+- [Gradient](https://gradient.fi/) 🇪🇺 - 🇫🇮
 - [Heco](https://heco-audio.de) 🇪🇺 - 🇨🇳
 - [Magnat](https://www.magnat.de/en/) 🇪🇺 - 🇩🇪
 - [Sonus Faber](https://www.sonusfaber.com) 🇪🇺 - 🇮🇹
@@ -487,15 +492,17 @@ _Speakers_
 - [Teufel Audio](https://dk.teufelaudio.com) 🇪🇺 - 🇩🇪
 - [Triangle HiFi](https://trianglehifi.com/) 🇪🇺 - 🇫🇷
 
+
 _Headphones_
 
 - [Austrian Audio](https://austrian.audio/) 🇪🇺 - 🇦🇹 _Most of their headphones are manufactured in Austria, there are exceptions so look the model up when you buy_
 - [Bang & Olufsen](https://www.bang-olufsen.com/en/int) 🇪🇺 - 🇩🇰
 - [beyerdynamic Europe](https://europe.beyerdynamic.com/) 🇪🇺 - 🇩🇪 _Most of their headphones are manufactured in Germany, there are exceptions so look the model up when you buy_
 - [Focal](https://www.focal.com/) 🇪🇺 - 🇫🇷
+- [Meze Audio](https://mezeaudio.com/) 🇷🇴
 - [Sennheiser](https://www.sennheiser.com/) 🇪🇺 - _Production in Germany, Ireland, Romania, and the USA, with some consumer products also made in China_
 - [Teufel Audio](https://dk.teufelaudio.com) 🇪🇺 - 🇩🇪
-
+- [Valco](https://valco.fi/en) 🇪🇺 - 🇫🇮 🇨🇳
 
 
 Other options:
