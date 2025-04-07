@@ -251,6 +251,7 @@ Boots and women categories will be updated with more categories in the future.
 - [Ivy Lee Copenhagen](https://ivyleecopenhagen.com) 🇪🇺 🌱 - 🇵🇹
 - [Jack Wolfskin](https://www.jack-wolfskin.com/) 🇪🇺 - 🇩🇪🇹🇼 _Manufactured in other south east asian countries as well_ _It's now a subsidiary from American company_
 - [Joma Sport](https://www.joma-sport.com/en) 🇪🇺 - 🇪🇸🇨🇳🇲🇽
+- [Joya Shoes](https://eu.joyashoes.swiss/) 🇨🇭 - 🇰🇷
 - [JULES & JENN](https://www.julesjenn.com) 🇪🇺 🌱 - 🇫🇷 🇵🇹 🇪🇸 🇮🇹 _site in French_
 - [Kangaroos](https://www.kangaroos.de/pages/kangaroos-made-in-germany) 🇺🇸 - 🇩🇪 _while kangaroos is an US company this line is entirely made in Germany_
 - [Kappa](https://www.kappa.com) 🇪🇺 - 🇮🇹🇨🇳
@@ -261,6 +262,7 @@ Boots and women categories will be updated with more categories in the future.
 - [Kost Paris](https://kostparis.com) 🇪🇺 - 🇫🇷 🇵🇹
 - [Kunoka](https://www.kunoka.com) 🇪🇺 - 🇵🇹
 - [Kuoma](https://kuoma.fi/en) 🇪🇺 🌱 - 🇫🇮
+- [Kybun](https://ch.kybun.swiss/en) 🇨🇭 - 🇮🇹🇨🇭
 - [La Botte Gardiane](https://www.labottegardiane.com) 🇪🇺 - 🇫🇷
 - [La Cadena](https://lacadena.es/en/) 🇪🇺 - 🇪🇸
 - [Langbrett](https://www.langbrett.com) 🇪🇺 🌱- 🇵🇹🇩🇪🇪🇸
