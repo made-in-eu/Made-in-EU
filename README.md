@@ -472,7 +472,6 @@ _Speakers_
 
 - [Alsyvox](https://alsyvox.com) 🇪🇺 - 🇪🇸
 - [Bang & Olufsen](https://www.bang-olufsen.com/en/int) 🇪🇺 - 🇩🇰
-- [Bowers & Wilkins](https://www.bowerswilkins.com) 🇬🇧 - 🇬🇧
 - [Cabasse](https://www.cabasse.com/) 🇪🇺 - 🇫🇷
 - [Canton](https://www.canton.de/en/) 🇪🇺 - 🇩🇪
 - [DALI Speakers](https://static.dali-speakers.com/) 🇪🇺 - 🇩🇰 _The cheapest product line is made in China_
@@ -493,7 +492,6 @@ _Headphones_
 - [Austrian Audio](https://austrian.audio/) 🇪🇺 - 🇦🇹 _Most of their headphones are manufactured in Austria, there are exceptions so look the model up when you buy_
 - [Bang & Olufsen](https://www.bang-olufsen.com/en/int) 🇪🇺 - 🇩🇰
 - [beyerdynamic Europe](https://europe.beyerdynamic.com/) 🇪🇺 - 🇩🇪 _Most of their headphones are manufactured in Germany, there are exceptions so look the model up when you buy_
-- [Bowers & Wilkins](https://www.bowerswilkins.com) 🇬🇧 - 🇬🇧
 - [Focal](https://www.focal.com/) 🇪🇺 - 🇫🇷
 - [Sennheiser](https://www.sennheiser.com/) 🇪🇺 - _Production in Germany, Ireland, Romania, and the USA, with some consumer products also made in China_
 - [Teufel Audio](https://dk.teufelaudio.com) 🇪🇺 - 🇩🇪
