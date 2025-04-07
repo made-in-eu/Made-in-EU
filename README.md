@@ -421,8 +421,10 @@ https://productosmadeinspain.es
 **Cooling**
 - [EKWB](https://www.ekwb.com/) 🇪🇺 - 🇸🇮 _ONLY ONE SO FAR MANUFACTURED IN EUROPE_ 
 
+- [Alphacool](https://www.alphacool.com/en) 🇪🇺 - 🇨🇳
 - [ARCTIC](https://www.arctic.de/en) 🇪🇺 - 🇨🇳
 - [Noctua](https://noctua.at) 🇪🇺 - 🇹🇼
+
 
 **RAM**
 - [GOODRAM](https://www.goodram.com) 🇪🇺 - 🇵🇱  _ONLY ONE SO FAR MANUFACTURED IN EUROPE_ 
@@ -431,12 +433,14 @@ https://productosmadeinspain.es
 #### Cases 
 
 - [Ecoboxconcept](https://www.ecoboxconcept.com/) 🇪🇺 🌱 - 🇫🇷 _Cases and accesories made from wood_
-
+-------
 - [be quiet!](https://www.bequiet.com/) 🇪🇺 - 🇨🇳 _factories located in Asia, with close cooperation and final quality control near Hamburg_
 - [Caselabs](https://caselabs.se/) 🇪🇺 - 🇸🇪 _In process of restructure in sweden, not available yet_
+- [Endorfy](https://endorfy.com) 🇪🇺 - 🇨🇳
 - [Fractal Design](https://www.fractal-design.com/) 🇪🇺 - 🇨🇳 _Manufacture in China_
 - [Havn](https://havn.global/) 🇪🇺 - 🇹🇼
 - [Louqe](https://louqe.com/products/raw-s1) 🇪🇺 - _The raw s1 is made in Sweden 🇸🇪, the rest are made in China 🇨🇳_
+- [Nanoxia](https://www.nanoxia-world.com) 🇪🇺 - 🇨🇳
 - [Phanteks](https://phanteks.com/) 🇪🇺 - 🇨🇳
 - [Streacom](https://streacom.com/about/) 🇪🇺  - 🇨🇳
 
@@ -452,13 +456,16 @@ _Peripherials_
 - [Oehlbach](https://oehlbach.com/en/) 🇪🇺 - 🇩🇪 _Cables and other electronics_
 -------
 - [CHERRY](https://www.cherry.de/) 🇩🇪🇺🇸 - 🇨🇳
+- [Endorfy](https://endorfy.com) 🇪🇺 - 🇨🇳
 - [Logitech](https://www.logitech.com) 🇨🇭 - 🇨🇳
 - [SteelSeries](https://steelseries.com/) 🇪🇺 - 🇨🇳
 - [Speedlink](https://www.speedlink.com) 🇪🇺 - _Manufactured by Jöllenbeck GmbH, probably part in Europe and other in Asia_ 
 - [Trust](https://www.trust.com/en) 🇪🇺 - 🇨🇳
+- [Xtorm](https://www.xtorm.eu/) 🇪🇺 - 🇨🇳
 
 _Powerbanks_
 - [Intenso](https://www.intenso.de) 🇪🇺 - 🇩🇪🇨🇳 _Powerbanks, USB, ect.... Most manufacture made in China_
+- [Xtorm](https://www.xtorm.eu/) 🇪🇺 - 🇨🇳
 
 **ROUTERS**
 - [FRITZ!](https://en.fritz.com) 🇪🇺 - 🇩🇪
