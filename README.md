@@ -814,9 +814,18 @@ Tents, backpacks, and outdoor essentials.
 ### Cycling Equipment
 Bicycles, helmets, and cycling gear.
 
+- [Accell Group](https://www.accell-group.com/en) 🇪🇺 - 🇳🇱🇭🇺🇹🇷 _Big Bicycle conglomerate that has a lof of subsidiaries:  Atala, Babboe, Batavus, Carraro Cicli, Ghost, Haibike, KOGA, Lapierre, Loekie, Nishiki, Raleigh, Sparta, Torker, Tunturi, Van Nicholas, Winora, and XLC components. Most are made between Netherlands, Hungary and Turkey_
 - [Ampler Bikes](https://amplerbikes.com/en) 🇪🇺 - 🇪🇪
+- [Amsterdam Bicycle](https://www.amsterdam-bicycle.com) 🇪🇺 - 🇳🇱
+- [Cortina Bikes](https://cortinabikes.com/) 🇪🇺 - 🇳🇱🇨🇿
+- [Cyfac](https://www.cyfac.fr/) 🇪🇺 - 🇫🇷 _Custom Made bicycles, site in French_
+- [Focus Bikes](https://www.focus-bikes.com/int/) 🇪🇺 - 🇩🇪 _Assembled in Germany_ 
 - [GasGas](https://www.gasgas.com) 🇪🇺 - 🇪🇸 🇦🇹
+- [Gazelle Bikes](https://www.gazellebikes.com/) 🇪🇺 - 🇳🇱
+- [In'Bô](https://inbo.fr/fr/9-velos-bambou) 🇪🇺 🌱 - 🇫🇷 _Handmade really expensive bamboo bicycles_
+- [Kalkhoff Bikes](https://www.kalkhoff-bikes.com/en_es/) 🇪🇺 - 🇩🇪 _Assembled in Germany_
 - [Pi-Pop](https://pi-pop.fr/) 🇪🇺 🌱 - 🇫🇷 _Assembly in France, some components from other companies_
+- [Victoire Cycles](https://www.victoire-cycles.com/) 🇪🇺 - 🇫🇷 _Custom made_
 
 
 *Bicycle bags*
