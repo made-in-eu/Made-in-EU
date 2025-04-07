@@ -447,8 +447,7 @@ _Peripherials_
 
 - [GOODRAM](https://www.goodram.com) 🇪🇺 - 🇵🇱 
 - [Oehlbach](https://oehlbach.com/en/) 🇪🇺 - 🇩🇪 _Cables and other electronics_
-
-
+-------
 - [CHERRY](https://www.cherry.de/) 🇩🇪🇺🇸 - 🇨🇳
 - [Logitech](https://www.logitech.com) 🇨🇭 - 🇨🇳
 - [SteelSeries](https://steelseries.com/) 🇪🇺 - 🇨🇳
@@ -457,8 +456,6 @@ _Peripherials_
 
 _Powerbanks_
 - [Intenso](https://www.intenso.de) 🇪🇺 - 🇩🇪🇨🇳 _Powerbanks, USB, ect.... Most manufacture made in China_
-
-
 
 **ROUTERS**
 - [FRITZ!](https://en.fritz.com) 🇪🇺 - 🇩🇪
