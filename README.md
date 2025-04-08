@@ -742,6 +742,7 @@ Tires like Michelin are owned in part by europe so be cautious when you buy, the
 - [Grapat](https://www.grapat.eu) 🇪🇺 🌱 - 
 - [HABA](https://www.haba-play.com) 🇪🇺 🌱 - 🇩🇪
 - [Janod](https://www.janod.com/en/) 🇪🇺 🌱 - 🇫🇷
+- [Lalok](https://lalok-holzeisenbahn-manufaktur.myshopify.com/) 🇪🇺 - 🇦🇹🇺🇦 _Wooden trains manufactured in Ukraine, packaged in Austria_
 - [Lego](https://lego.com) 🇪🇺 - 🇩🇰🇨🇿🇲🇽🇨🇳
 - [Lilliputiens](https://www.lilliputiens.com/en) 🇪🇺 🌱 - 🇧🇪
 - [Londji](https://londji.com/en/) 🇪🇺 🌱 - 🇪🇸
@@ -864,6 +865,8 @@ Clothes and accessories for infants.
   
 ### Baby Gear
 Strollers, car seats, and baby carriers.
+- [Mam](https://www.mambaby.com) 🇪🇺 - 🇦🇹🇭🇺🇹🇭 _Bottles and pacifiers_
+
 ### Maternity Clothing and Products
 Products for expecting and new mothers.
 
@@ -875,6 +878,7 @@ https://www.for-vegans.com/
 ### Makeup and Cosmetics
 Foundation, lipstick, and eye shadow.
 - [Farmec](https://www.farmec.ro/) 🇪🇺 - 🇷🇴
+
 ### Hair Care Products
 Shampoos, conditioners, and styling tools.
 ### Personal Hygiene
