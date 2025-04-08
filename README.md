@@ -246,6 +246,7 @@ Boots and women categories will be updated with more categories in the future.
 - [Hanwag](https://www.hanwag.com) 🇪🇺 - 🇩🇪🇭🇺🇭🇷
 - [Hotter](https://www.hotter.com) 🇬🇧 - 🇬🇧
 - [Hummel](https://www.hummel.dk/en) 🇪🇺 - 🇨🇳🇮🇳🇧🇩🇵🇰🇹🇷
+- [Icebug](https://icebug.com/) 🇪🇺 🌱- 🇨🇳🇻🇳 _Materials from 🇸🇪🇹🇭_
 - [Id-eight](https://www.id-eight.com) 🇪🇺 🌱- 🇮🇹
 - [Infinite-running](https://www.infinite-running.com) 🇪🇺 🌱- 🇩🇪  _site in German_
 - [Ivy Lee Copenhagen](https://ivyleecopenhagen.com) 🇪🇺 🌱 - 🇵🇹
