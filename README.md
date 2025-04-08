@@ -457,7 +457,7 @@ _Peripherials_
 - [Oehlbach](https://oehlbach.com/en/) 🇪🇺 - 🇩🇪 _Cables and other electronics_
 -------
 - [CHERRY](https://www.cherry.de/) 🇩🇪🇺🇸 - 🇨🇳
-- [Endorfy](https://endorfy.com) 🇪🇺 - 🇨🇳
+- [Endorfy](https://endorfy.com) 🇪🇺 - 🇨🇳 _Designed in Poland_
 - [Logitech](https://www.logitech.com) 🇨🇭 - 🇨🇳
 - [SteelSeries](https://steelseries.com/) 🇪🇺 - 🇨🇳
 - [Speedlink](https://www.speedlink.com) 🇪🇺 - _Manufactured by Jöllenbeck GmbH, probably part in Europe and other in Asia_ 
@@ -465,8 +465,8 @@ _Peripherials_
 - [Xtorm](https://www.xtorm.eu/) 🇪🇺 - 🇨🇳
 
 _Powerbanks_
-- [Intenso](https://www.intenso.de) 🇪🇺 - 🇩🇪🇨🇳 _Powerbanks, USB, ect.... Most manufacture made in China_
-- [Xtorm](https://www.xtorm.eu/) 🇪🇺 - 🇨🇳
+- [Intenso](https://www.intenso.de) 🇪🇺 - 🇨🇳 _Powerbanks, USB, ect.... Most manufacture made in China_
+- [Xtorm](https://www.xtorm.eu/) 🇪🇺 - 🇨🇳 _Better Alternative to Intenso, designed in Netherlands_
 
 **ROUTERS**
 - [FRITZ!](https://en.fritz.com) 🇪🇺 - 🇩🇪
