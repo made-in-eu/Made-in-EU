@@ -129,7 +129,6 @@ Apparel and Garments, for every day and more.
 - [Copenhagenstudios](https://www.copenhagenstudios.com) 🇪🇺 🌱- 🇵🇹 🇮🇹
 - [Diadora](https://www.diadora.com) 🇪🇺 - 🇮🇹
 - [Ecoalf](https://www.ecoalf.com) 🇪🇺 🌱- 🇪🇸 🇰🇷 🇹🇼 🇨🇳
-- [Eu.velasca](https://www.velasca.com) 🇪🇺 - 🇮🇹
 - [Hummel](https://www.hummel.dk/en) 🇪🇺 - 🇨🇳🇮🇳🇧🇩🇵🇰🇹🇷
 - [Joma Sport](https://www.joma-sport.com/en) 🇪🇺 - 🇪🇸🇨🇳🇲🇽
 - [Kappa](https://www.kappa.com) 🇪🇺 - 🇮🇹🇨🇳
@@ -154,6 +153,7 @@ Apparel and Garments, for every day and more.
 - [Trigema](https://www.trigema.de/en/) 🇪🇺 - 🇩🇪
 - [Tripulse](https://tripulse.co/collections/frontpage) 🇪🇺 🌱 - 🇸🇪 🇪🇺
 - [Vaerupcycled](https://www.vaerupcycled.com) 🇪🇺 🌱 - 🇵🇹 _upcycled textiles_
+- [Velasca](https://www.velasca.com) 🇪🇺 - 🇮🇹
   
 
 #### Accessories
@@ -232,7 +232,6 @@ Boots and women categories will be updated with more categories in the future.
 - [Espigas](https://espigas-store.com) 🇪🇺  - 🇫🇷 _only the shoes with french flag are made in France, rest are made in China 🇨🇳_
 - [Ethletic](https://www.ethletic.com) 🇪🇺 - 🇵🇰
 - [ETQ Amsterdam](https://www.etq-amsterdam.com/) 🇪🇺 - 🇵🇹
-- [Eu.velasca](https://www.velasca.com) 🇪🇺 - 🇮🇹
 - [Eytys](https://www.eytys.com) 🇪🇺 - 🇪🇸 🇻🇳
 - [Farrutx](https://farrutx.com) 🇪🇺 - 🇪🇸
 - [Flabelus](https://flabelus.com) 🇪🇺 🌱 - 🇪🇸
@@ -350,6 +349,7 @@ Boots and women categories will be updated with more categories in the future.
 - [Vasky](https://www.vasky.cz/cs/) 🇪🇺 - 🇨🇿 _Site in Czech_
 - [Veets](https://www.veets.fr/) 🇪🇺 🌱 - 🇫🇷 _site in French, most manufacturing in France_
 - [Veja](https://www.veja-store.com) 🇪🇺 🌱 - 🇵🇹🇧🇷
+- [Velasca](https://www.velasca.com) 🇪🇺 - 🇮🇹
 - [Victoria](https://www.calzadosvictoria.com/en_ES/home) 🇪🇺 🌱 - 🇪🇸
 - [Wildling](https://www.wildling.shoes) 🇪🇺 🌱 - 🇵🇹
 - [Woden](https://www.woden.com) 🇪🇺 - 🇵🇹 🇨🇳 _unfortunately most of the production is in China_
