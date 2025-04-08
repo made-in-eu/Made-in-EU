@@ -854,6 +854,8 @@ Bicycles, helmets, and cycling gear.
 ### Fishing and Hunting Gear
 Rods, reels, and hunting tools.
 
+- [Amiaud Équipement](https://amiaud-equipement.fr/en/home/) 🇪🇺 - 🇫🇷 _Fishing and boating_
+
 ## Baby and Maternity
 ### Baby Clothing and Accessories
 Clothes and accessories for infants.
