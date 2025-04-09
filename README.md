@@ -421,7 +421,7 @@ https://productosmadeinspain.es
 
 **Cooling**
 - [EKWB](https://www.ekwb.com/) 🇪🇺 - 🇸🇮 _ONLY ONE SO FAR MANUFACTURED IN EUROPE_ 
-
+-------
 - [Alphacool](https://www.alphacool.com/en) 🇪🇺 - 🇨🇳
 - [ARCTIC](https://www.arctic.de/en) 🇪🇺 - 🇨🇳
 - [Noctua](https://noctua.at) 🇪🇺 - 🇹🇼
@@ -456,7 +456,7 @@ _Peripherials_
 - [GOODRAM](https://www.goodram.com) 🇪🇺 - 🇵🇱 
 - [Oehlbach](https://oehlbach.com/en/) 🇪🇺 - 🇩🇪 _Cables and other electronics_
 -------
-- [CHERRY](https://www.cherry.de/) 🇩🇪🇺🇸 - 🇨🇳
+- [CHERRY](https://www.cherry.de/) 🇩🇪 _Switches are made in Germany_
 - [Endorfy](https://endorfy.com) 🇪🇺 - 🇨🇳 _Designed in Poland_
 - [Logitech](https://www.logitech.com) 🇨🇭 - 🇨🇳
 - [SteelSeries](https://steelseries.com/) 🇪🇺 - 🇨🇳
