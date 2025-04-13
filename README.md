@@ -145,6 +145,7 @@ Apparel and Garments, for every day and more.
 - [Ofantoitaly](https://www.ofantoitaly.com) 🇪🇺 - 🇮🇹 _site in Italian_
 - [On-running](https://www.on-running.com) 🇨🇭 - _It's not clear where they're manufactured besides "Asia"_
 - [Oxbow](https://www.oxbowshop.com) 🇪🇺 - 🇫🇷🇵🇹🇪🇺
+- [Rapanui](https://www.rapanui.com) / [Teemill](https://teemill.com/) 🇬🇧 🌱 - 🇮🇳🇬🇧 _Organic cotton clothing. Made in India, printed in the UK_
 - [Sanjo](https://www.sanjo.pt/en) 🇪🇺 - 🇵🇹
 - [Scotch & Soda](https://scotchandsoda.com/) 🇪🇺 🌱 - 🇨🇳🇮🇳🇹🇷
 - [Seize Point Neuf](https://www.seizepointneuf.fr/) 🇪🇺 - 🇫🇷 _site in French_
@@ -333,6 +334,7 @@ Boots and women categories will be updated with more categories in the future.
 - [Smart Power](https://www.smart-power.fr) 🇪🇺 - 🇫🇷
 - [Snipe](https://www.snipe.com/) 🇪🇺 🌱 - 🇪🇸 _site in German_
 - [Sofix](https://www.sofix.pl) 🇪🇺 - 🇵🇱 _Site in Polish_ _Handmade sneakers_
+- [Solovair](https://nps-solovair.com/) 🇬🇧 - 🇬🇧 _Classic British leather boots_
 - [Sorbas-shoes](https://www.sorbasshoes.com) 🇪🇺 🌱 - 🇷🇸🇵🇹🇬🇷
 - [Suitsupply](https://suitsupply.com) 🇪🇺 🌱 - 🇮🇹 _The shoes are Italian, other products may vary_ 
 - [Superga](https://www.superga.com/) 🇪🇺 🌱 - 🇮🇹 _Some cotton is sourced from Vietnam_
@@ -349,6 +351,7 @@ Boots and women categories will be updated with more categories in the future.
 - [Vaerupcycled](https://www.vaerupcycled.com) 🇪🇺 🌱 - 🇵🇹 _shoes made from upcycled textiles like jeans_
 - [Vasky](https://www.vasky.cz/cs/) 🇪🇺 - 🇨🇿 _Site in Czech_
 - [Veets](https://www.veets.fr/) 🇪🇺 🌱 - 🇫🇷 _site in French, most manufacturing in France_
+- [Vegetarian Shoes](https://www.vegetarian-shoes.co.uk/) 🇬🇧 - 🇬🇧🇵🇹
 - [Veja](https://www.veja-store.com) 🇪🇺 🌱 - 🇵🇹🇧🇷
 - [Victoria](https://www.calzadosvictoria.com/en_ES/home) 🇪🇺 🌱 - 🇪🇸
 - [Wildling](https://www.wildling.shoes) 🇪🇺 🌱 - 🇵🇹
