@@ -8,6 +8,7 @@
 **This is for physical products only**
 
 For digital products visit: https://european-alternatives.eu/ by Constantin Graf
+Also for Awesome European Tech: https://github.com/uscneps/Awesome-European-Tech
 
 You can check this same one but hosted in EU github alternative: https://codeberg.org/Made-in-EU/Made-in-EU
 
@@ -494,8 +495,8 @@ _Speakers_
 - [Gradient](https://gradient.fi/) 🇪🇺 - 🇫🇮
 - [Heco](https://heco-audio.de) 🇪🇺 - 🇨🇳
 - [Magnat](https://www.magnat.de/en/) 🇪🇺 - 🇩🇪
-- [Sonus Faber](https://www.sonusfaber.com) 🇪🇺 - 🇮🇹
 - [Quadral](https://www.quadral.com/en/#products) 🇪🇺 - 🇩🇪
+- [Sonus Faber](https://www.sonusfaber.com) 🇪🇺 - 🇮🇹
 - [Tecnare](https://www.tecnare.com/) 🇪🇺 - 🇪🇸
 - [Teufel Audio](https://dk.teufelaudio.com) 🇪🇺 - 🇩🇪
 - [Triangle HiFi](https://trianglehifi.com/) 🇪🇺 - 🇫🇷
@@ -509,6 +510,7 @@ _Headphones_
 - [Focal](https://www.focal.com/) 🇪🇺 - 🇫🇷
 - [Meze Audio](https://mezeaudio.com/) 🇷🇴
 - [Sennheiser](https://www.sennheiser.com/) 🇪🇺 - _Production in Germany, Ireland, Romania, and the USA, with some consumer products also made in China_
+- [repeat.audio](http://repeat.audio) 🇪🇺 - _Most likely made in China_
 - [Teufel Audio](https://dk.teufelaudio.com) 🇪🇺 - 🇩🇪
 - [Valco](https://valco.fi/en) 🇪🇺 - 🇫🇮 🇨🇳
 
@@ -517,7 +519,7 @@ Other options:
 https://en.wikipedia.org/wiki/List_of_loudspeaker_manufacturers
 https://www.reddit.com/r/BudgetAudiophile/comments/xj9l6y/stereo_companies_to_consider_by_country/
 
-**Home Entretainment**
+**Home Entertainment**
 
 - [Bang & Olufsen](https://www.bang-olufsen.com/en/int) 🇪🇺 - 🇩🇰
 - [TechniSat](https://www.technisat.com) 🇪🇺 - 🇩🇪
@@ -603,6 +605,7 @@ Tools and supplies for garden
 - [DeWit](https://dewit.eu/en) 🇪🇺 - 🇳🇱
 - [Etesia](https://www.etesia.com/) 🇪🇺 - 🇫🇷
 - [Falci Tools](https://www.falcitools.com) 🇪🇺 - 🇮🇹
+- [Fiskars](https://fiskars.com) 🇪🇺 - 🇫🇮
 - [Husqvarna](https://www.husqvarna.com) 🇪🇺 - 🇪🇺🇺🇸🇧🇷🇨🇳 (Most assembly is done in sweden, with some production facilities done across the world)
 - [Gardena](https://www.gardena.com/uk) 🇪🇺 - 🇨🇿🇩🇪🇪🇺
 - [Leborgne](https://www.leborgne.fr/) 🇪🇺 - 🇫🇷 
