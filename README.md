@@ -145,7 +145,7 @@ Apparel and Garments, for every day and more.
 - [Ofantoitaly](https://www.ofantoitaly.com) 🇪🇺 - 🇮🇹 _site in Italian_
 - [On-running](https://www.on-running.com) 🇨🇭 - _It's not clear where they're manufactured besides "Asia"_
 - [Oxbow](https://www.oxbowshop.com) 🇪🇺 - 🇫🇷🇵🇹🇪🇺
-- [Rapanui](https://www.rapanui.com) / [Teemill](https://teemill.com/) 🇬🇧 🌱 - 🇮🇳🇬🇧 _Organic cotton clothing. Made in India, printed in the UK_
+- [Rapanui](https://www.rapanui.com) / [Teemill](https://teemill.com/) 🇬🇧 🌱 - 🇮🇳🇬🇧 _Organic cotton clothing. Two brands from the same company: Rapanui is a fashion brand and Teemill is a custom print on demand brand. Made in India, printed in the UK_
 - [Sanjo](https://www.sanjo.pt/en) 🇪🇺 - 🇵🇹
 - [Scotch & Soda](https://scotchandsoda.com/) 🇪🇺 🌱 - 🇨🇳🇮🇳🇹🇷
 - [Seize Point Neuf](https://www.seizepointneuf.fr/) 🇪🇺 - 🇫🇷 _site in French_
@@ -304,7 +304,7 @@ Boots and women categories will be updated with more categories in the future.
 - [Noanifashion](https://www.noanifashion.de) 🇪🇺 🌱 - 🇪🇸  _site in German_
 - [North-89](https://www.north-89.com) 🇪🇺 - 🇵🇹 
 - [Novesta](https://www.gonovesta.com/en/nfactory) 🇪🇺 🌱 - 🇸🇰
-- [NPS Solovair](https://uk.nps-solovair.com/) 🇬🇧 - 🇬🇧
+- [NPS Solovair](https://uk.nps-solovair.com/) 🇬🇧 - 🇬🇧 _Classic British leather boots_
 - [Ofantoitaly](https://www.ofantoitaly.com) 🇪🇺 - 🇮🇹 _site in Italian_
 - [On-running](https://www.on-running.com) 🇨🇭 - _It's not clear where they're manufactured besides "Asia"_
 - [Omaking](https://www.omaking.ee/en) 🇪🇺 - 🇪🇪
@@ -334,7 +334,6 @@ Boots and women categories will be updated with more categories in the future.
 - [Smart Power](https://www.smart-power.fr) 🇪🇺 - 🇫🇷
 - [Snipe](https://www.snipe.com/) 🇪🇺 🌱 - 🇪🇸 _site in German_
 - [Sofix](https://www.sofix.pl) 🇪🇺 - 🇵🇱 _Site in Polish_ _Handmade sneakers_
-- [Solovair](https://nps-solovair.com/) 🇬🇧 - 🇬🇧 _Classic British leather boots_
 - [Sorbas-shoes](https://www.sorbasshoes.com) 🇪🇺 🌱 - 🇷🇸🇵🇹🇬🇷
 - [Suitsupply](https://suitsupply.com) 🇪🇺 🌱 - 🇮🇹 _The shoes are Italian, other products may vary_ 
 - [Superga](https://www.superga.com/) 🇪🇺 🌱 - 🇮🇹 _Some cotton is sourced from Vietnam_
