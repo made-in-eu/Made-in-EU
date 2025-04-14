@@ -7,8 +7,9 @@
 
 **This is for physical products only**
 
-For digital products visit: https://european-alternatives.eu/ by Constantin Graf
-Also for Awesome European Tech: https://github.com/uscneps/Awesome-European-Tech
+>For digital products visit: https://european-alternatives.eu/ by Constantin Graf
+
+>Also for Awesome European Tech: https://github.com/uscneps/Awesome-European-Tech
 
 You can check this same one but hosted in EU github alternative: https://codeberg.org/Made-in-EU/Made-in-EU
 
