@@ -11,6 +11,8 @@
 
 >Also for Awesome European Tech: https://github.com/uscneps/Awesome-European-Tech
 
+>To check where a brand actually manufactures: https://browle.com — verified made-in directory for European brands, evidence link on every entry (EN/DE/FR)
+
 You can check this same one but hosted in EU github alternative: https://codeberg.org/Made-in-EU/Made-in-EU
 
 ## Preamble
